@@ -8,10 +8,12 @@ Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
 
 ### Desafio Técnico
   Nós trabalhamos com meios de pagamento e nada melhor do que um bom sistema para gestão de contas:
-  
   - Pré-requisitos:
+    - Oracle 11g como banco;
+    - .NET Core 3.1
+    - Angular 8
     ```
-    * Desenvolver os recursos em API Rest que realizam operações bancárias com a entidade conta a seguir:
+    * Desenvolver os recursos em API Rest e Front que realizam operações bancárias com a entidade conta a seguir:
     ```
     | Contas | Tipo |
     |-|-|
@@ -52,6 +54,7 @@ Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
     * Implementar path que realiza operação de saque em uma conta;
     * Implementar path que realiza o bloqueio de uma conta;
     * Implementar path que recupera o extrato de transações de uma conta;
+    * Implementar tela que acessa os dados da conta escolhida.
     ```
   - O que será diferencial:
     ```
