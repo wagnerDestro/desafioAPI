@@ -11,7 +11,7 @@ Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
   - Pré-requisitos:
     - Banco de dados de sua preferência;
     - Node.js
-    - React
+    - React native
     ```
     * Desenvolver os recursos em API Rest e Front que realizam operações bancárias com a entidade conta a seguir:
     ```
