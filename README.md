@@ -9,9 +9,9 @@ Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
 ### Desafio Técnico
   Nós trabalhamos com meios de pagamento e nada melhor do que um bom sistema para gestão de contas:
   - Pré-requisitos:
-    - Oracle 11g como banco;
-    - .NET Core 3.1
-    - Angular 8
+    - Banco de dados de sua preferência;
+    - Node.js
+    - React
     ```
     * Desenvolver os recursos em API Rest e Front que realizam operações bancárias com a entidade conta a seguir:
     ```
@@ -76,7 +76,7 @@ Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
 
 ### Instruções
       1. Faça o fork do desafio;
-      2. Crie um repositório privado no seu github para o projeto e adicione como colaborador os usuários betoadam;
+      2. Crie um repositório privado no seu github para o projeto e adicione como colaborador o usuário betoadam;
       3. Desenvolva. Você terá 7 (sete) dias a partir da data do envio do desafio; 
       4. Após concluir seu trabalho faça um push; 
       5. Envie um e-mail à pessoa que está mantendo o contato com você durante o processo notificando a finalização do desafio para validação.
