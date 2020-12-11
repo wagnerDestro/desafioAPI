@@ -10,8 +10,7 @@ Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
   Nós trabalhamos com meios de pagamento e nada melhor do que um bom sistema para gestão de contas:
   - Pré-requisitos:
     - Banco de dados de sua preferência;
-    - Node.js
-    - React native
+    - PHP, HTML, CSS
     ```
     * Desenvolver os recursos em API Rest e Front que realizam operações bancárias com a entidade conta a seguir:
     ```
