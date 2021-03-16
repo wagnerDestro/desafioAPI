@@ -9,10 +9,10 @@ Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
 ### Desafio Técnico
   Nós trabalhamos com meios de pagamento e nada melhor do que um bom sistema para gestão de contas:
   - Pré-requisitos:
-    - Banco de dados de sua preferência;
-    - Front e Back de sua escolha;
+    - Banco de dados Firebase;
+    - App em Kotlin;
     ```
-    * Desenvolver os recursos em API Rest e Front que realizam operações bancárias com a entidade conta a seguir:
+    * Desenvolver os recursos que realizam operações bancárias com a entidade conta a seguir:
     ```
     | Contas | Tipo |
     |-|-|
