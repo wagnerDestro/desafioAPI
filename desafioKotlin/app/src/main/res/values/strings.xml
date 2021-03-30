@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">desafioKotlin</string>
+    <string name="Nome">Nome completo</string>
+    <string name="cpf">Cpf</string>
+    <string name="sign_in">Entrar</string>
+    <string name="create_account">Criar conta</string>
+    <string name="id_pessoa">ID da pessoa</string>
+    <string name="saldo">Saldo da conta</string>
+    <string name="limitesaq">Limite de saque diário</string>
+    <string name="contaAtiva">Conta ativa</string>
+    <string name="tipoConta">Tipo de conta</string>
+    <string name="criar_pessoa">Criar usuário</string>
+
+    <!-- APAGAR AQUI EMBAIXO!!-->
+    <string name="account_name">Account name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="password_hint">********</string>
+    <string name="remember_my_password">Remember my password</string>
+    <string name="forgot_login_info">Forgot your login info?</string>
+
+</resources>

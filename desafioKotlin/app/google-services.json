@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045701611863",
+    "project_id": "desafiokotlin",
+    "storage_bucket": "desafiokotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045701611863:android:4bf13838a3d9129aa3ae12",
+        "android_client_info": {
+          "package_name": "com.example.desafiokotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045701611863-7easvmb7gt5g7iskv1jcl57f5v4rlb4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEugZB5Fbmkxv9CqF4ybYqdoWcYXCSp9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045701611863-7easvmb7gt5g7iskv1jcl57f5v4rlb4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

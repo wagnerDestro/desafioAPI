@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_bg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#EEE"
+            android:text="Menu"
+            android:textSize="30dp"
+            android:layout_marginTop="10dp"/>
+
+
+        <Button
+            android:id="@+id/btn_criarUsuario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_button_bg"
+            android:text="Criar usuário"
+            android:textColor="@color/black"
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="70dp"
+            android:layout_marginTop="30dp"/>
+
+        <Button
+            android:id="@+id/btn_criar_conta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_button_bg"
+            android:text="Criar conta"
+            android:textColor="@color/black"
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="70dp"
+            android:layout_marginTop="30dp"/>
+
+        <Button
+            android:id="@+id/btn_deposito"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_button_bg"
+            android:text="Fazer depósito"
+            android:textColor="@color/black"
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="70dp"
+            android:layout_marginTop="30dp"/>
+
+        <Button
+            android:id="@+id/btn_consultarSaldo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_button_bg"
+            android:text="Consultar saldo"
+            android:textColor="@color/black"
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="70dp"
+            android:layout_marginTop="30dp"/>
+
+        <Button
+            android:id="@+id/btn_saque"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_button_bg"
+            android:text="Fazer saque"
+            android:textColor="@color/black"
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="70dp"
+            android:layout_marginTop="30dp"/>
+
+        <Button
+            android:id="@+id/btn_bloquear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_button_bg"
+            android:text="Bloquear conta"
+            android:textColor="@color/black"
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="70dp"
+            android:layout_marginTop="30dp"/>
+
+        <Button
+            android:id="@+id/btn_extrato"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_button_bg"
+            android:text="Extrato de uma conta"
+            android:textColor="@color/black"
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="70dp"
+            android:layout_marginTop="30dp"/>
+
+        <Button
+            android:id="@+id/btn_infoConta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_button_bg"
+            android:text="Informações de conta"
+            android:textColor="@color/black"
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="70dp"
+            android:layout_marginTop="30dp"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>
